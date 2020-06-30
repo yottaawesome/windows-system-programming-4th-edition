@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SrvrBcst", "SrvrBcst.vcproj", "{7311BA1E-A8E5-4C87-90A5-7C1DF02A2C36}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7311BA1E-A8E5-4C87-90A5-7C1DF02A2C36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7311BA1E-A8E5-4C87-90A5-7C1DF02A2C36}.Debug|Win32.Build.0 = Debug|Win32
+		{7311BA1E-A8E5-4C87-90A5-7C1DF02A2C36}.Release|Win32.ActiveCfg = Release|Win32
+		{7311BA1E-A8E5-4C87-90A5-7C1DF02A2C36}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

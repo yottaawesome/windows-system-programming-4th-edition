@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeStagePthreads", "ThreeStagePthreads.vcproj", "{EA543E3A-484D-42E1-9BD4-B1BDB79582EF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA543E3A-484D-42E1-9BD4-B1BDB79582EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA543E3A-484D-42E1-9BD4-B1BDB79582EF}.Debug|Win32.Build.0 = Debug|Win32
+		{EA543E3A-484D-42E1-9BD4-B1BDB79582EF}.Release|Win32.ActiveCfg = Release|Win32
+		{EA543E3A-484D-42E1-9BD4-B1BDB79582EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

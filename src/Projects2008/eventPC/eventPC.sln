@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eventPC", "eventPC.vcproj", "{44A28C89-F6E0-49D5-9CBC-87C2C589F3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A28C89-F6E0-49D5-9CBC-87C2C589F3FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44A28C89-F6E0-49D5-9CBC-87C2C589F3FF}.Debug|Win32.Build.0 = Debug|Win32
+		{44A28C89-F6E0-49D5-9CBC-87C2C589F3FF}.Release|Win32.ActiveCfg = Release|Win32
+		{44A28C89-F6E0-49D5-9CBC-87C2C589F3FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "msg_emulation_test", "msg_emulation_test.vcproj", "{1D3AC693-DBE8-4C1E-88C6-ABB23BD8E248}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1D3AC693-DBE8-4C1E-88C6-ABB23BD8E248}.Debug.ActiveCfg = Release|Win32
+		{1D3AC693-DBE8-4C1E-88C6-ABB23BD8E248}.Debug.Build.0 = Release|Win32
+		{1D3AC693-DBE8-4C1E-88C6-ABB23BD8E248}.Release.ActiveCfg = Release|Win32
+		{1D3AC693-DBE8-4C1E-88C6-ABB23BD8E248}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
