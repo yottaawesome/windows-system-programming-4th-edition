@@ -6,4 +6,4 @@ This is an unofficial source code repo for Johnson M. Hart's book [Windows Syste
 
 ## Changes
 
-Currently, the source code in `src` is committed as is from the [book's website](http://jmhartsoftware.com/), however, I do plan to go through and update any old Visual Studio files to the latest version of Visual Studio.
+Currently, the source code in `src` is committed as is from the [book's website](http://jmhartsoftware.com/) (this includes libs and exe files), however, I do plan to go through and update any old Visual Studio files to the latest version of Visual Studio, as well as remove any unneeded files from the repo.
