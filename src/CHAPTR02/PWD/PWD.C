@@ -5,6 +5,7 @@
 	2. Testing the length of a returned string */
 
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 #define DIRNAME_LEN (MAX_PATH + 2)
 
