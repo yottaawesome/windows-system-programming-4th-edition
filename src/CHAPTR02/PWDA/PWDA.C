@@ -6,6 +6,7 @@
 		3. A Version - allocate enough memory for the path */
 
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 int _tmain (int argc, LPTSTR argv [])
 {
