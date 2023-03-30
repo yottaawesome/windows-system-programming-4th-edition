@@ -5,10 +5,12 @@
 
 #include "Everything.h"
 
+#pragma comment(lib, "Utility_4_0_64.lib")
+
 #define BUF_SIZE 0x200
 
 static VOID CatFile (HANDLE, HANDLE);
-int _tmain (int argc, LPTSTR argv [])
+int _tmain(int argc, LPTSTR argv[])
 {
 	HANDLE hInFile, hStdIn = GetStdHandle (STD_INPUT_HANDLE);
 	HANDLE hStdOut = GetStdHandle (STD_OUTPUT_HANDLE);

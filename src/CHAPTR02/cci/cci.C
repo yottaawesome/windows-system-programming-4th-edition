@@ -14,9 +14,11 @@
 #include "Everything.h"
 #include <io.h>
 
+#pragma comment(lib, "Utility_4_0_64.lib")
+
 BOOL cci_f (LPCTSTR, LPCTSTR, DWORD);
 
-int _tmain (int argc, LPTSTR argv [])
+int _tmain(int argc, LPTSTR argv[])
 {
 	if (argc != 4)
 		ReportError  (_T ("Usage: cci shift file1 file2"), 1, FALSE);
