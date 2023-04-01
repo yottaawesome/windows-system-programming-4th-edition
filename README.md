@@ -8,10 +8,11 @@ This is an unofficial source code repo for Johnson M. Hart's book [Windows Syste
 
 Currently, the source code in `src` is committed as is from the [book's website](http://jmhartsoftware.com/) (this includes libs and exe files). While there are Visual Studio 2005 and 2008 (x64) solutions provided, I'm in the process of adding a new VS2022 solution and associated projects to replace these.
 
-| Chapter | Status    |
-| --------|-----------|
-| 1       | Converted |
-| 2       | Converted |
+| Chapter | Status      |
+| --------|-------------|
+| 1       | Converted   |
+| 2       | Converted   |
+| 3       | In progress |
 
 ## Additional resources
 
