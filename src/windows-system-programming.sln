@@ -31,6 +31,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PWDA", "CHAPTR02\PWDA\PWDA.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cci_fFA", "CHAPTR02\cci_fFA\cci_fFA.vcxproj", "{D0D609A0-4E75-4C82-9BD1-9C7F01892996}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter03", "Chapter03", "{76E2BF73-9882-4B4F-91EB-535F78A87954}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreeSpace", "CHAPTR03\FreeSpace\FreeSpace.vcxproj", "{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -135,6 +139,14 @@ Global
 		{D0D609A0-4E75-4C82-9BD1-9C7F01892996}.Release|x64.Build.0 = Release|x64
 		{D0D609A0-4E75-4C82-9BD1-9C7F01892996}.Release|x86.ActiveCfg = Release|Win32
 		{D0D609A0-4E75-4C82-9BD1-9C7F01892996}.Release|x86.Build.0 = Release|Win32
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Debug|x64.ActiveCfg = Debug|x64
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Debug|x64.Build.0 = Debug|x64
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Debug|x86.Build.0 = Debug|Win32
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Release|x64.ActiveCfg = Release|x64
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Release|x64.Build.0 = Release|x64
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Release|x86.ActiveCfg = Release|Win32
+		{8F7D4B92-0127-4DCB-AFF7-8A874FB59F7D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
