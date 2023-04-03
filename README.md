@@ -12,7 +12,8 @@ Currently, the source code in `src` is committed as is from the [book's website]
 | --------|-------------|
 | 1       | Converted   |
 | 2       | Converted   |
-| 3       | In progress |
+| 3       | Converted   |
+| 4       | In progress |
 
 ## Additional resources
 
