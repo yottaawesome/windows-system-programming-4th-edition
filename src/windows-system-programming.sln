@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lsW", "CHAPTR03\lsW\lsW.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecordAccess", "CHAPTR03\RecordAccess\RecordAccess.vcxproj", "{4C0907EC-D278-4E7D-8182-1666996CEE09}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecordAccessTestDataGenerate", "CHAPTR03\RecordAccessTestDataGenerate\RecordAccessTestDataGenerate.vcxproj", "{01B4E026-F695-4A13-BCF6-D20233C5A222}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -187,6 +189,14 @@ Global
 		{4C0907EC-D278-4E7D-8182-1666996CEE09}.Release|x64.Build.0 = Release|x64
 		{4C0907EC-D278-4E7D-8182-1666996CEE09}.Release|x86.ActiveCfg = Release|Win32
 		{4C0907EC-D278-4E7D-8182-1666996CEE09}.Release|x86.Build.0 = Release|Win32
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Debug|x64.ActiveCfg = Debug|x64
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Debug|x64.Build.0 = Debug|x64
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Debug|x86.ActiveCfg = Debug|Win32
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Debug|x86.Build.0 = Debug|Win32
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Release|x64.ActiveCfg = Release|x64
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Release|x64.Build.0 = Release|x64
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Release|x86.ActiveCfg = Release|Win32
+		{01B4E026-F695-4A13-BCF6-D20233C5A222}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -209,6 +219,7 @@ Global
 		{8007623B-E049-4825-AB2F-5A285E92CFCD} = {76E2BF73-9882-4B4F-91EB-535F78A87954}
 		{3B766678-0E81-48EE-8B14-1C55D9E360E3} = {76E2BF73-9882-4B4F-91EB-535F78A87954}
 		{4C0907EC-D278-4E7D-8182-1666996CEE09} = {76E2BF73-9882-4B4F-91EB-535F78A87954}
+		{01B4E026-F695-4A13-BCF6-D20233C5A222} = {76E2BF73-9882-4B4F-91EB-535F78A87954}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACF404E0-92BF-48BE-9C61-C919977D735E}
