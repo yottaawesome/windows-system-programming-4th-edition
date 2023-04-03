@@ -22,7 +22,8 @@ int _tmain (int argc, LPTSTR argv [])
 		_tprintf (_T("Length: %d\n"), FileLen.QuadPart);
 		/* Note: this does not really handle numbers bigger than 4G.
 			Can you fix it? */
-		if (FileLen.QuadPart== 0) break;
+		if (FileLen.QuadPart== 0) 
+			break;
 		FileLenH.QuadPart = FileLen.QuadPart/2;
 
 		ReportSpace (_T("Before file creation"));
