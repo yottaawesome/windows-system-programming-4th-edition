@@ -4,6 +4,7 @@
 	Double the block size on success; halve it on failure. */
 
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 #define IBLOCK_SIZE 0x10000	/* Initial Block */
 
