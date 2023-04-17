@@ -8,6 +8,7 @@ sortFL file */
 either on normal completion or in case of an exception. */
 
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 /* Definitions of the record structure in the sort file. */
 
