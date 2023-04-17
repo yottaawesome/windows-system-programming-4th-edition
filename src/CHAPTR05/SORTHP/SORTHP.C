@@ -11,6 +11,7 @@
 /*  LIMITATION: The file is not "huge" (it is less than 4GB) */
 
 #include "Everything.h"	/* Definitions of the record structure in the sort file. */
+#pragma comment(lib, "Utility_4_0_64.lib")
 #define DATALEN 56	/* Correct length for presdnts.txt and monarchs.txt. */
 #define KEYLEN 8
 
