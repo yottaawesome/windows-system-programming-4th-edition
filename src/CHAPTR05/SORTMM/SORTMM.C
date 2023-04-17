@@ -33,9 +33,10 @@ The key field is 8 characters, starting at record position 0. */
     Notice that this requires __based pointers. */
 
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 int KeyCompare (LPCTSTR, LPCTSTR);
-VOID CreateIndexFile (LARGE_INSTEGER, LPCTSTR, LPTSTR);
+VOID CreateIndexFile (LARGE_INTEGER, LPCTSTR, LPTSTR);
 DWORD_PTR kStart = 0, kSize = 8; 	/* Key start position & size (TCHAR). */
 BOOL reverse;
 
