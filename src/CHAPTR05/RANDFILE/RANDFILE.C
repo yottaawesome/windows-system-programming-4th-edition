@@ -4,6 +4,7 @@
 /*	MODIFIED April 12, 2010 to support huge files */
 
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 static VOID srandx (DWORD);	/* MS version RAND_MAX is only */
 static DWORD randx (void);	/* 32K - too small. Do our own. */
