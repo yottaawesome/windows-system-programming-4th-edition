@@ -18,7 +18,10 @@
 	2.	Traverse the search tree and output the records in order.
 	3.	Destroy the heap and repeat for the next file. */
 
+#define _CRT_SECURE_NO_WARNINGS
+
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 #define KEY_SIZE 8
 
@@ -44,7 +47,7 @@ BOOL InsertTree (LPPTNODE, LPTNODE);
 
 int _tmain (int argc, LPTSTR argv [])
 {
-	HANDLE hIn, hNode = NULL, hData = NULL;
+	HANDLE hIn = NULL, hNode = NULL, hData = NULL;
 	LPTNODE pRoot;
 	BOOL noPrint;
 	int iFile, iFirstFile;
