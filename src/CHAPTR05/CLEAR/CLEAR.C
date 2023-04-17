@@ -6,7 +6,11 @@
    on Windows 9x (95, 98, Me) systems */
 /* May 17, 2010. Behvior on a 64-bit system is not dependable */
 
+// GetVersionEx() is deprecated. This pragma is necessary for compilation.
+#pragma warning(disable : 4996)
+
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 #define IBLOCK_SIZE 0x10000000	/* Initial Block */
 
