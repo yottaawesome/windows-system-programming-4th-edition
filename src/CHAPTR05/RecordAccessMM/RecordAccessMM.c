@@ -32,7 +32,10 @@
 	4. File initialization to 0 (this will not work under Windows 9x
 		or with a FAT file system. 
 */
+#define _CRT_SECURE_NO_WARNINGS
+
 #include "Everything.h"
+#pragma comment(lib, "Utility_4_0_64.lib")
 
 #define STRING_SIZE 256
 typedef struct _record { /* File record structure */
