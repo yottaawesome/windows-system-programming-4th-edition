@@ -87,6 +87,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cci_fDll", "CHAPTR05\cci_fD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cciEL", "CHAPTR05\cciEL\cciEL.vcxproj", "{D8B3061A-430A-4F29-932D-60DB945D5C15}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter06", "Chapter06", "{60A58C5D-1F4E-43BC-9977-9F9A1E8D350E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
