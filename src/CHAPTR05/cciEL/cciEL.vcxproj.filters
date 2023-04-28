@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cci_fDll.c">
+    <ClCompile Include="cciEL.C">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
