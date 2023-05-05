@@ -1,3 +1,5 @@
+// The GetVersion APIs are deprecated
+#pragma warning(disable : 4996)
 /* Chapter 6. timepp. Simplified version with no special 
 	auxiliary functions or header files.  */
 
