@@ -103,6 +103,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JobShell", "CHAPTR06\JobShe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JobObjectShell", "CHAPTR06\JobObjectShell\JobObjectShell.vcxproj", "{0805AF81-2469-4168-B26B-E1A943FCBA6A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07", "Chapter07", "{59EAE9C7-EC66-422B-8BBB-AE1054E7AF0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
