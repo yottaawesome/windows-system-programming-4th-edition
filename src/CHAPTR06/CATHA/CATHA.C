@@ -22,7 +22,7 @@ int _tmain (int argc, LPTSTR argv [])
 	HANDLE hInFile, hOut;
 
 	_tprintf (_T("In catHA. %s %s\n"), argv [1], argv [2]);
-
+	
 	hInFile = CreateFile (argv [1], GENERIC_READ, 0, NULL, OPEN_EXISTING,
 			FILE_ATTRIBUTE_NORMAL, NULL);
 	if (hInFile == INVALID_HANDLE_VALUE)
