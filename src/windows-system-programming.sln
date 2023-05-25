@@ -133,6 +133,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eventPCx", "CHAPTR08\eventP
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplePCx", "CHAPTR08\simplePCx\simplePCx.vcxproj", "{9C4C50D3-B85F-43CB-95D9-A846D1E89D3C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter09", "Chapter09", "{E54A0EB1-97DB-44FE-8922-93C04BD3D46E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
