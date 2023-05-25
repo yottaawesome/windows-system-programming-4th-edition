@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grepMTx", "CHAPTR07\grepMTx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wcMTxx", "CHAPTR07\wcMTxx\wcMTxx.vcxproj", "{1F59A855-C245-40B2-9209-72C71E517573}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter08", "Chapter08", "{4E1484A7-E5F4-4FB8-92FD-29B39844C06E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
