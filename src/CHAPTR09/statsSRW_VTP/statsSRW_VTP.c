@@ -31,7 +31,7 @@ int _tmain (int argc, LPTSTR argv[])
 	HANDLE *pWorkObjects;
 	SRWLOCK srwl;
     unsigned int tasksPerThread, totalTasksComplete;
-    THARG ** pWorkObjArgsArray, *pThreadArg;
+    THARG ** pWorkObjArgsArray = NULL, *pThreadArg;
 	TP_CALLBACK_ENVIRON cbe;  // Callback environment
     
     if (argc < 3) {
