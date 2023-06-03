@@ -157,6 +157,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "statsSRW_VTP", "CHAPTR09\st
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wcMT_VTP", "CHAPTR09\wcMT_VTP\wcMT_VTP.vcxproj", "{2ACFD63C-CA9F-4A12-BF0C-29A959358DF5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter10", "Chapter10", "{42EE87DD-25FB-4461-B5F3-A2AD5562C552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
