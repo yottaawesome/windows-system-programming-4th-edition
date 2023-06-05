@@ -8,18 +8,19 @@ This is an unofficial source code repo for Johnson M. Hart's book [Windows Syste
 
 Currently, the source code in `src` is committed as is from the [book's website](http://jmhartsoftware.com/) (this includes libs and exe files). While there are Visual Studio 2005 and 2008 (x64) solutions provided, I'm in the process of adding a new VS2022 solution and associated projects to replace these.
 
-| Chapter | Status      |
-| --------|-------------|
-| 1       | Converted   |
-| 2       | Converted   |
-| 3       | Converted   |
-| 4       | Converted   |
-| 5       | Converted   |
-| 6       | Converted   |
-| 7       | Converted   |
-| 8       | Converted   |
-| 9       | Converted   |
-| 10      | In progress |
+| Chapter | Status      | Notes |
+| --------|-------------| ----- |
+| 1       | Converted   | |
+| 2       | Converted   | |
+| 3       | Converted   | |
+| 4       | Converted   | |
+| 5       | Converted   | |
+| 6       | Converted   | |
+| 7       | Converted   | |
+| 8       | Converted   | |
+| 9       | Converted   | |
+| 10      | In progress | Uses a very old version of pthreads. Multiple compile errors due to bad syntax or references to missing symbols. |
+| 11      | In progress | |
 
 ## Additional resources
 
