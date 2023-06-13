@@ -171,6 +171,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WC", "CHAPTR11\WC\WC.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRVRBCST", "CHAPTR11\SRVRBCST\SRVRBCST.vcxproj", "{BE300ADA-23D4-47CC-BE39-D6DE23326AC6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter12", "Chapter12", "{58119657-2E49-4E12-8122-BA0504AC1387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
