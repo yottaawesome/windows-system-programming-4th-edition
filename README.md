@@ -20,7 +20,8 @@ Currently, the source code in `src` is committed as is from the [book's website]
 | 8       | Converted   | |
 | 9       | Converted   | |
 | 10      | In progress | Uses a very old version of pthreads. Multiple compile errors due to bad syntax or references to missing symbols. |
-| 11      | In progress | |
+| 11      | Converted   | |
+| 12      | In progress | |
 
 ## Additional resources
 
