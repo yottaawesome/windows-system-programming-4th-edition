@@ -9,6 +9,8 @@
 
 #include "Everything.h"
 #include "ClientServer.h"	/* Defines MESSAGE records. */
+#pragma comment(lib, "Utility_4_0_64.lib")
+#pragma comment(lib, "ws2_32.lib")
 
 typedef struct STATIC_BUF_T {
 /* "staticBuf" contains "staticBufLen" characters of residual data */

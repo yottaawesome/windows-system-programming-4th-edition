@@ -12,8 +12,11 @@
 	2. Short-lived connections with a single request but multiple responses.
 	3. Reading responses in server messages until the server disconnects. */
 
+#define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include "Everything.h"
 #include "ClientServer.h"	/* Defines the request and response records. */
+#pragma comment(lib, "Utility_4_0_64.lib")
+#pragma comment(lib, "ws2_32.lib")
 
 static BOOL ReceiveResponseMessage (RESPONSE *, SOCKET);
 
