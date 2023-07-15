@@ -13,6 +13,8 @@
 
 #include "Everything.h"
 #include "ClientServer.h"	/* Defines the MESSAGESs. */
+#pragma comment(lib, "Utility_4_0_64.lib")
+#pragma comment(lib, "ws2_32.lib")
 
 typedef struct SOCKET_HANDLE_T {
 /* Current socket state */
