@@ -7,6 +7,8 @@
 
 #include "Everything.h"
 #include "ClientServer.h"	/* Defines the request and response records. */
+#pragma comment(lib, "Utility_4_0_64.lib")
+#pragma comment(lib, "ws2_32.lib")
 
 struct sockaddr_in srvSAddr;		/* Server's Socket address structure */
 struct sockaddr_in connectSAddr;	/* Connected socket with client details   */
